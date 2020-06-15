@@ -1,0 +1,14 @@
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\obj\Debug\JuegoParejasWPF.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\obj\Debug\App.g.cs
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\obj\Debug\JuegoParejasWPF_MarkupCompile.cache
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\obj\Debug\JuegoParejasWPF_MarkupCompile.lref
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\bin\Debug\JuegoParejasWPF.exe.config
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\bin\Debug\JuegoParejasWPF.exe
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\bin\Debug\JuegoParejasWPF.pdb
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\obj\Debug\MainWindow.baml
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\obj\Debug\JuegoParejasWPF.g.resources
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\obj\Debug\JuegoParejasWPF.Properties.Resources.resources
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\obj\Debug\JuegoParejasWPF.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\obj\Debug\JuegoParejasWPF.exe
+C:\Users\Win10\source\repos\JuegoParejasWPF\JuegoParejasWPF\obj\Debug\JuegoParejasWPF.pdb
